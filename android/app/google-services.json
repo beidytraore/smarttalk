@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1068174629658",
+    "project_id": "smarttalk-f6959",
+    "storage_bucket": "smarttalk-f6959.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068174629658:android:12ab204a79443824fbeaa3",
+        "android_client_info": {
+          "package_name": "com.example.smarttalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068174629658-ebaqkd9r946p44aigm1lhhfvgd2gpo8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClF0A5LqMxr50enmrpfiFOkAB8lVfzaAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068174629658-ebaqkd9r946p44aigm1lhhfvgd2gpo8n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1068174629658-m3qcoutkcrji3srrkbdeq3mvr1uvhnto.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.timelessfusionapps.smartTalk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

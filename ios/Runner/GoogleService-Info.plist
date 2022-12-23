@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1068174629658-m3qcoutkcrji3srrkbdeq3mvr1uvhnto.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1068174629658-m3qcoutkcrji3srrkbdeq3mvr1uvhnto</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD0N_E8JFRDqe7qRdvgac-A3dXYdFt423E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1068174629658</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.timelessfusionapps.smartTalk</string>
+	<key>PROJECT_ID</key>
+	<string>smarttalk-f6959</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smarttalk-f6959.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1068174629658:ios:5c311872e92c96cafbeaa3</string>
+</dict>
+</plist>
